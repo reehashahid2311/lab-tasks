@@ -1,2 +1,2 @@
 # lab task
-this folder contain m programming lab tasks.
+this folder contain my programming lab tasks.
